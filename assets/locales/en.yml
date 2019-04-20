@@ -1,0 +1,522 @@
+### English
+change Lang: change
+
+# 会员中心
+vip:
+  Myorder: My Order
+  Orderconfirmation: Order Confirmation
+  Shipped: Shipped
+  Reviews: Reviews
+  Pop-upsale: Retail+
+  Invitefriends: Invite Friends
+  Wishlist: Wishlist
+  Wallet: Wallet
+  Voucher: Voucher
+  Myaddress: My Address
+  Talk to us: Talk To Us
+  Help: Help
+  Settings: Settings
+  # 会员中心路由
+  Invite Your Friends: Invite Your Friends
+  INVITE A FRIEND: INVITE A FRIEND
+  More details: More details
+  History: History
+  Invite Friends: Invite Friends
+  Share with Facebook: Share with Facebook
+  Personal Center: Personal Center
+  # 个人中心
+  My Information: My Information
+  Edit Password: Edit Password
+  Credit Card: Credit Card
+  Account: Account
+  Name: Name
+  Mobile Phone No: Mobile Phone No
+  Birthday: Birthday
+  Gender: Gender
+  Female: Female
+  Male: Male
+
+  # 个人中心信用卡
+  Visa / MasterCard: Visa / MasterCard
+  Set as default: Set as default
+  Month: Month
+  Year: Year
+  # 地址管理
+  My Address: My Address
+  Add A New Address: Add A New Address
+  Use this as default address: Use this as default address
+  Edit Adress: Edit Adress
+  Delete Item: Delete Item
+   # settings
+  Privacy Policy: Privacy Policy
+  Coupon: Coupon
+  Pop Scale: Pop Scale
+  # 我的订单
+  My Order: My Order
+  Order Details: Order Details
+  Complete Order?: Complete Order?
+  #钱包
+  Gift Card: Gift Card
+  Referral Credits: Referral Credits
+  Refund Balance: Refund Balance
+  Notifications: Notifications
+  Order Notifications: Order Notifications
+  Promotions: Promotions
+  Payment Results: Payment Results
+  Pop-up Sale: Retail+
+
+#
+#  Localizable.strings
+#  IUIGA
+#
+#  Created by Lucien on 161220.
+#  Copyright © 2018年 Lucien. All rights reserved.
+#
+
+
+# base strings
+network:
+  unknown_error: Network status is not stable # 当前网络不稳定
+  unused_error: Unstable connection, please refresh # 当前网络不可用
+  button_refresh: REFRESH # 刷新
+
+tabbar:
+  home: Home # 首页
+  category: Categories # 分类
+  shopping_bag: Shopping Bag # 购物袋
+  member: Member # 会员中心
+
+iuigatag:
+  iuiga_exclusives: Honest Pricing # IUIGA自营品牌
+  hassle_free_returns: 30-Day Returns # 无忧换货
+  fast_delivery: Free Delivery # 闪电发货
+
+
+# common strings
+common:
+  button:
+    cancel: CANCEL # 取消
+    ok: OK # 确认
+    delete: DELETE # 删除
+    save: SAVE # 保存
+    submit: SUBMIT # 提交
+    next: NEXT # 下一步
+    payment: PAYMENT # 去付款
+  sort_default: Default # 默认
+  sort_price: Price # 价格
+  tip: Tip # 提示
+  selected: Selected # 已选择
+  sub_total: Sub Total # 商品合计
+  customize_fees: Customize Fee # 运费
+  delivery_fees: Delivery Fee # 运费
+  shipping_fees: Shipping Fee # 运费
+  promotion: Promotion # 活动优惠
+  discount: Discount # 折扣
+  promo_code: Promo Code # 优惠码
+  refund: Refund # 退款
+  voucher: Voucher # 优惠劵
+  wallet: Wallet  # 钱包
+  grand_total: Grand Total # 实付
+  no_result: No Result # 无数据
+  delete_item: Delete item ? # 确定删除选中商品
+
+
+# search
+Help_search: Help Search
+Help Center: Help Center
+search:
+  find_anything_for_your_home: Find anything for your home… # 搜索所有产品
+  button_cancel: Cancel # 取消
+  history: History # 历史记录
+  delete_history: Delete history # 确定删除历史搜索记录
+  associate:
+    product: Product # 商品
+    category: Category # 商品分类
+    no_product: No products found matching your criteria. # 无联想搜索结果
+
+
+# home
+home:
+  direct_from_manufacturer: Direct From Manufacturer # 品牌制造商直供
+  from: From # 从多少起 未使用
+  new_collection: New Collection # 新品首发
+  bestsellers: Bestsellers # 人气推荐
+  more: More
+  coming_soon: Coming Soon   # 即将到货
+  pop_know_more: KNOW MORE  #弹出活动更多详情 未使用
+
+# category
+category: Category # 分类 未使用
+# goods detail
+goods_detail:
+  button_new: New # 新品
+  select: Select # 规格选择 未使用
+  please_select: Please select # 规格选择 未使用
+  voucher: Voucher # 优惠券
+  promo: Promo # 促销
+  product_details: Product Details # 商品详情 未使用
+  price: Price # 售价
+  button_add_to_bag: ADD TO BAG # 添加到购物袋
+  button_pre_order: PRE-ORDER # 预售
+  button_notify_me: NOTIFY ME # 到货提醒
+  facebook_share_success: Successfully shared! # 分享成功 未使用
+  facebook_share_failure: Something went wrong. Please try again.  # 分享失败 未使用
+  facebook_share_luckamount: You've won a S$ %@ voucher! # 中奖金额提示 未使用
+  service: Service # 服务内容
+  transparent_pricing: Transparent Pricing # 透明价格
+  materials: MATERIALS # 材料费
+  labor: LABOR # 工费
+  tax: TAX # 关税
+  transport: TRANSPORT # 运费
+  raw_cost: RAW COST # 真实价格
+  iuiga: IUIGA # IUIGA价格
+  normal_retailers: NORMAL RETAILERS # 传统价格
+
+  add_to_bag_success: Success # 未登录状态下添加成功
+  out_of_stock: Out Of Stock # 库存提醒 未使用
+  stock_notification_description: The item is currently unavailable. We will notify\n you when the item is back in stock. # 到货提醒描述 未使用
+  recommend_goods_title: People Who Bought This Item Also Bought #商品推荐栏目标题
+  get_goods_coupon: REDEEM NOW # 获取商品优惠券
+  received_goods_coupon: REDEEMED # 已获取商品优惠券
+
+# review
+
+review:
+  title: Reviews
+  see_all: See all
+  tag_title_all: All
+  tag_title_with_photos: With photos
+  header_name: IUIGA Support
+
+
+# cart
+cart:
+  button_edit: Edit # 编辑
+  button_confirm: Confirm # 确认
+  no_product: No Product # 无产品数据 未使用
+  please_select_the_item: Please select the item # 请选择购物车商品
+
+  checkout: CHECKOUT # 检查
+  promo_code: Promo code # 优惠码
+  button_promo_code_redeem: REDEEM # 兑换
+  button_promo_code_edit: EDIT # 编辑
+  promo_code_required: Promo code required # 优惠码不能为空
+  voucher: Voucher # 优惠劵
+  use_voucher: Use voucher # 选择优惠劵
+  wallet: Wallet # 钱包
+  why_can_not_use: How to redeem? # 为什么不能使用钱包
+  print_receipt: Print Order Summary # 我要开发票
+  i_have_agreed: I have agreed # 我已同意
+  iuiga_privacy_policy: IUIGA PRIVACY POLICY # IUIGA平台协议
+  please_agree_to_privacy_policy: Please agree to privacy policy # 请同意平台协议
+  button_checkout: CHECKOUT # 检查按钮
+  maximum_quantity: Maximum quantity, unable to add to bag
+  pease_select_gift: Please Choose Gift with Purchase # 请选择赠品
+  limited_stock: Limited stock, please choose again # (赠品)库存不足
+
+checkoutinfo:
+  my_address: Shipping Address
+  billing_address: Billing Address
+  add_new_address: +Add a new address
+  select_billing_address: Please select billing address
+  select_address: Please add address
+  bill_to_the_same_address: Bill to the same address
+  is_reward_for_gift: Gift
+  pop_up_store: Pop-Up Store Collection #自取门店
+  pop_up_free: Free #免费
+  pop_up_mobile: Mobile Phone No. #自取手机号
+  doorstep: Doorstep Delivery #送货上门
+  select_delivery: SELECT DELIVERY #选择收货方式
+  no_other_msg: You've not filled in any special requests or instructions # 送货备注, 选择other以后未输入信息直接点确认的提示
+
+
+# member
+member:
+  my_account: My Account # 个人中心                                                                                      未使用
+  Personal_center: Personal Center
+  my_information: My Information # 个人信息
+  order_notifications: Order Notifications   #订单信息
+  notifications: Notifications
+  promotions: Promotions             # 活动信息
+  promotions_ended: Promotions has ended #                                                                                     未使用
+  messages: Messages      #消息列表
+  order_notifications_result: Take a look at our new arrivals! # 订单信息列表为空
+  promotions_result: Stay tuned.  # 活动信息列表为空
+  edit_password: Edit Password # 修改登录密码
+  credit_card: Credit Card # 信用卡
+  credit:
+    no_card: No Credit Card # 无信用卡
+    Visa_masterCard: Visa / MasterCard  # 无信用卡
+    set_as_primary: Set as primary
+    button_add_new_credit_card: ADD NEW CREDIT CARD # 添加新的信用卡
+    we_accept: We accept
+    will_reviewd_placed_content: Please kindly review your details before making your payment.
+    name_on_credit_card: Name On Credit Card # 信用卡 姓名
+    number: Credit Card Number # 信用卡卡号
+    name_is_required_field: Credit card name is required field # 信用卡卡号不能为空
+    number_is_required_field: Credit card number is required field # 信用卡卡号不能为空
+    number_is_16_digit_number: Credit card number is 16 digit number # 信用卡卡号为16位数字
+    expiry_date: Expiry Date # 有效日期
+    month: Month # 月
+    month_is_required_field: Month is required field # 月不能为空
+    year: Year # 年
+    year_is_required_field: Year is required field # 年不能为空
+    please_provide_credit_card: Please provide credit card # 请提供信用卡
+    unable_to_read_credit_card_information: Unable to read credit card information # 无法读取信用卡信息
+    delete_item: Delete Item
+  order_see_reviews: SEE REVIEWS # 查看评论
+  order_reviews: REVIEW # 评论
+  reviews: REVIEWS # 评论
+  order_review_conter_placeholder: How was your experience? Other IUIGA fans would love to hear from you!
+  order_leave_comment: How was your experience? Please leave us a comment!
+  order_submit_review: SUBMIT
+  Myorder: My Order
+  user_id: User ID # 用户ID
+  account_number: Account # 用户账号
+  name: Name # 姓名
+  gender: Gender # 性别
+  male: Male # 男
+  female: Female # 女
+  birthday: Birthday # 出生日期
+  mobile_phone_no: Mobile Phone No #手机号
+  mobile_change: CHANGE #更换手机号
+  mobile_add: ADD #新增手机号
+  mobile_change_view: Change Mobile Phone No #新增手机号
+  new_mobile_no: New Mobile Phone No #新手机号
+  please_choose: 01-01-1993 #请选择
+  order_news: Order Notifications  # 订单消息
+  member_promotions: Promotions   # 促销活动消息
+  current_password: Current Password # 原密码
+  new_password: New Password # 新密码
+  confirm_password: Confirm Password # 确认新密码
+  current_password_required: Current password required # 原密码不能为空
+  new_password_required: New password required # 新密码不能为空
+  confirm_password_required: Confirm password required # 确认新密码不能为空
+  passwords_do_not_match: Passwords do not match # 新密码和确认新密码不相同
+  input_password_in_correct_format: Wrong password, please enter correct password # 新密码格式不对
+  my_order: My Order # 我的订单
+  no_items: No Items # 无订单
+  shop_new_arrivals: SHOP NEW ARRIVALS # 进入新品首发
+  all_orders: All Orders # 所有订单
+  being_prepared: Order Confirmation # 待准备
+  being_delivered: Shipped # 发货中
+  order_completed: Reviews # 评论
+  order_number: Order Number # 订单编号
+  order_estimated_delivery: Estimated Delivery  # 预计发货
+  order_by_express_shipping: by Express Shipping  # 通过快递运输
+  total_of: Total of # 一共
+  item: item # 件商品
+  items: items # 件商品
+  cancel_order: Cancel order # 确定取消此订单
+  delete_order: Delete order # 确定删除此订单
+  button_order_received: CONFIRM RECEIVED # 确认收货
+  button_complete_order: Complete order # 确认收货
+  order_details: Order Details # 订单详情
+  time_created: Order Time # 创建时间
+  make_payment_within: Make payment within # 剩余支付时间
+  online_chat: ONLINE CHAT # 在线客服
+  call_us: CALL US # 电话客服
+  payment_mode: Payment Method # 支付方式
+
+  popup_sale: Retail+ # 线下购买
+  popup_sale_order_updated: Order list has updated, Please confirm and proceed to check out. # 线下购买商品发生变化提示
+  without_usertoken: User have not logged in or expired. Please kindly log in first!
+
+  order:
+    seeDeliveryDetails: Delivery Status # 查看物流 (进入第三方地址)
+
+  invite:
+    qr: QR code # 邀请好友
+    friends: Invite Friends # 邀请好友
+    friends_recommend_friends: Recommend IUIGA to Your Friends! #
+    friends_give_get: Give S$ 10, Get S$ 10.
+    friends_more_details: More details
+    qrcode_describe: Give your friend S$ 10 and you will receive S$ 10 store credits when they make their first purchase.
+    friends_share_facebook: Invite a Friend
+    friends_foryou_foryourfriend: S$ 10 for you, S$ 10 for your friend.
+    describe: Give your friend S$ 10 and you will receive S$ 10 store credits when they make their first purchase.
+    friends_invite_a_friend: INVITE A FRIEND
+    friends_have_joined: friends have joined.
+    friends_have_purchased: friends have purchased.
+    friends_your_have: Your have
+    friends_in_credits: in credits
+  wishlistdelte: Delete item
+  wishlist: Wishlist # 心愿单
+  wishlist_empty_title: NOTHING SAVED... # 心愿单为空
+  wishlist_empty_description: Start saving your favorites as you shop by clicking the little heart-we’ll sync your items across all your devices to make your life easier. # 心愿单为空描述
+
+  voucher: Voucher # 优惠劵
+  voucher_with_min: With min. spend of
+  voucher_code: Voucher code # 兑换码
+  exchange: EXCHANGE # 兑换
+  no_voucher: No Voucher # 无优惠劵
+
+  wallet: Wallet # 钱包
+  walletinfo:
+    credit: Your Wallet Credit
+    applied_in_next_purchase: Applied in your next purchase
+    price_gift_card: Gift Card
+    price_referral_credits: Referral Credits
+    price_refund_balance: Refund Balance
+    continue_shopping: CONTINUE SHOPPING
+    redeem: REDEEM
+    gift_card: Gift card #礼品卡
+    describe_left: Wallet credit added via refund items or gift cards
+    describe_right: Wallet credit can be used on shopping bag
+    how_it_works: How it works
+  title_history: History # 记录
+
+  my_address: My Address # 地址管理
+  my_address_shipping_address: Shipping Address  # 购物地址
+  my_address_billing_address: Billing Address        # 开票地址
+  save: Save # 保存
+  next: Next # 下一步
+  default: Default # 默认
+  button_add_new_address: ADD NEW ADDRESS # 添加新地址
+  title_add_new_address: Add New Address # 添加新地址
+  consignee_name: Name # 姓名
+  singapore: Singapore #
+  phone_number: Phone Number # 号码
+  postal_code: Postal Code # 邮编
+  address: Address # 地址
+  unit_number: Unit Number #  楼层－单元
+  use_this_as_default_address: Use this as default address # 设置为默认收货地址
+  edit_address: Edit Address # 编辑地址
+  delete_address: Delete address # 确定删除此地址
+  no_address: No Address # 无地址
+  name_is_required_field: Name is required field # 姓名不能为空
+  phone_number_is_required_field: Phone number is required field # 手机号不能为空
+  phone_number_number_format_wrong: Wrong phone number format # 手机号格式错误
+  postal_code_is_required_field: Postal code is required field #邮编不能为空
+  postal_code_number_format_wrong: Wrong postal code format # 手机号格式错误
+  address_is_required_field: Address is required field # 地址不能为空
+  unit_number_is_required_field: Unit number is required field #楼层－单元不能为空
+
+  talk_to_us: Talk To Us # 在线客服
+  help: Help # 帮助中心
+
+  settings: Settings # 设置
+  clear_cache: Clear Cache # 清除缓存
+  confirm_clear_cache: Confirm clear cache # 确定清除缓存
+  about_us: About Us # 关于我们
+  privacy_policy: Privacy Policy # 隐私声明
+  drop_us_a_review: Drop Us A Review # 评价我们
+  share_app: Share APP # 分享APP
+  log_out: LOG OUT # 退出登录
+  confirm_log_out: Confirm log out # 确定退出登录
+  iuiga_technologies: IUIGA All rights reserved © 2016-
+
+
+# log in
+login:
+  email: Email # 电子邮件
+  password: Password # 密码
+  firstname: First Name # 姓
+  lastname: Last Name #名
+  button_log_in: LOG IN # 登录
+  register: Register # 注册
+  forget_password: Forget password # 忘记密码
+  other_login_methods: Other Login Methods # 其他登录方式
+  other_register_methods: Other Register Methods # 其他登录方式
+  email_phone_is_required_field: Phone Number / Email Address is required field # 邮箱 手机格式不能为空
+  email_is_required_field: Email is required field # 邮箱不能为空
+  password_is_required_field: Password is required field # 密码不能为空
+  firstname_is_required_field: First Name is required field # 姓不能为空
+  lastname_is_required_field: Last Name is required field # 名不能为空
+  verification_code_is_required_field: Verification code is required field # 验证码不能为空
+  wrong_email_address: Wrong email address # 电子邮件格式错误
+  wrong_email_address_phone: Wrong Phone Number / Email Address # 电子邮件 手机格式错误
+  input_password_in_correct_format: Password must have at least 6 characters # 密码格式错误
+  button_complete_registration: REGISTER # 完成注册
+
+  verification_code: Verification Code # 验证码
+  button_send_code: SEND CODE # 发送验证码
+  receive_offers: Receive exculsive offers and promotions from IUIGA*        # 从Iuiga接收消息和活动
+  agree_to: By clicking 'REGISTER' I agree to   #同意
+  privacy_policy: IUIGA Privacy Policy  # 隐私政策
+  please_agree_privacy_policy: Please agree to our Privacy Policy  # 请同意我们的隐私政策
+
+
+# payment
+payment:
+  result: Payment Results
+  result_success: Successful Payment # 支付成功
+  result_failure: Payment Failure # 支付失败
+  button_view_order: VIEW ORDER # 检查订单
+  button_back_to_my_giftcard: BACK TO GIFT CARD # 返回礼品卡
+  button_back_to_my_account: BACK TO MY ACCOUNT # 返回会员中心
+  button_back_to_shopping_bag: BACK TO SHOPPING BAG # 返回购物袋
+  button_contact_us: CONTACT US # 联系我们
+
+  online_visa_or_master_card: VISA / MasterCard # VISA / MasterCard
+  online_union_pay: Union Pay # Union Pay
+  online_alipay: Alipay # Alipay
+  online_wechat_pay: Wechat Pay # Wechat Pay
+  online_wechat_pay_disable_description: Apologies, but Wechat pay is currently unavailable. Please select another method of payment to proceed with your purchase. If you have any questions, please contact us at support@iuiga.com. # Wechat Pay不可用描述
+  online_enets: eNETS # ENets
+  online_enets_disable_description: Apologies, but eNets pay is currently unavailable. Please select another method of payment to proceed with your purchase. If you have any questions, please contact us at support@iuiga.com. # ENets不可用描述
+
+  online_select_payment_method: Select Payment Method # 选择支付方式
+  online_please_select_payment_method: Please select payment method # 请选择支付方式
+
+  we_accept: We accept
+  will_reviewd_placed_content: Please kindly review your details before making your payment.
+  online_security_code: Security Code # 3位安全码描述
+  online_cvv2: CVV2 # CVV2
+  online_cvv2_is_required_field: CVV2 is required field # CVV2不能为空
+  online_cvv2_is_3_digit_number: CVV2 is 3 digit number # CVV2为3位数字
+  online_button_use_other_cards: USE OTHER CARDS # 使用其他信用卡
+  online_choose_payment_option: Choose payment option # 选择支付选项
+  online_use_another_card: Use another card # 使用另外一张信用卡
+
+  online_name_on_credit_card: Name On Credit Card # 信用卡 姓名
+  online_credit_card_number: Credit Card Number # 信用卡卡号
+  online_credit_card_number_is_required_field: Credit card number is required field # 信用卡卡号不能为空
+  online_credit_card_number_is_16_digit_number: Credit card number is 16 digit number # 信用卡卡号为16位数字
+  online_expiry_date: Expiry Date # 有效日期
+  online_month: Month # 月
+  online_month_is_required_field: Month is required field # 月不能为空
+  online_year: Year # 年
+  online_year_is_required_field: Year is required field # 年不能为空
+  online_card_security_code: Card Security Code # 安全码
+  online_card_security_code_is_required_field: Card security code is required field # 安全码不能为空
+  online_card_security_code_is_3_digit_number: Card security code is 3 digit number # 安全码为3位数字
+  online_remember_details_for_next_purchase: Remember details for next purchase # 是否记录支付信息
+  online_button_order_now: ORDER NOW # 生成订单
+
+  visa_card_bank_exclusive: Promo code is bank-exclusive, you will still can proceed without promo code. # 新增卡付款时, 银行卡不对应优惠码
+
+
+# share
+share:
+  success: Thank you for sharing the love!  # 分享成功
+  failure: Oops! Please try sharing again.    # 分享失败
+  copy_link: Copied!      # 复制成功
+  copy_failed: Try Again! # 复制失败
+  app_not_install: Oops! Please share the love via another channel.   # 应用未安装
+  disable_sharing: Disable sharing  # 取消分享
+
+Activity Rules: Activity Rules
+# activity
+activity:
+  countdown: Countdown # 倒计时
+  days: Days # 倒计时复数天数
+  day: Day # 倒计时天数
+  hours: Hrs # 倒计时复数小时
+  hour: Hr # 倒计时小时
+  minutes: Mins # 倒计时复数分钟
+  minute: Min # 倒计时分钟
+Group Buy: Group Buy
+Group No orders yet: No Orders Yet
+Group Buy Empty: START GROUP BUY
+Group pravicy:  IUIGA Group Buy
+Group Buy T&Cs: Group Buy T&Cs
+GroupBuy:
+  GoodsDetailBottomBtn: # 团购商品详情底部的两个按钮文案
+    left: 'Buy It Alone'
+    right: 'Group Buy Price'
+  FreeShipping: 'Free Shipping' # 包邮
+  Faq: 'FAQs >'
+# 礼品卡
+card:
+  luckyrecipient: "Who’s the lucky recipient?" # 倒计时

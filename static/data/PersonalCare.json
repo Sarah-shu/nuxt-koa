@@ -1,0 +1,32 @@
+[
+  {
+      "typeid": "111",
+      "name": "Skin Care ",
+      "describe": "Say hello to bright and smooth skin"
+  },
+  {
+      "typeid": "112",
+      "name": "Hygiene Care",
+      "describe": "Personal care dedicated to your health and wellbeing"
+  },
+  {
+      "typeid": "113",
+      "name": "Hair Care",
+      "describe": "Your first step to beautiful radiant hair"
+  },
+  {
+      "typeid": "114",
+      "name": "Bathroom Accessories",
+      "describe": "Refined enhancements for your bathroom"
+  },
+  {
+      "typeid": "115",
+      "name": "Vanity Accessories ",
+      "describe": "Keep your vanity chic, clean and tidy"
+  },
+  {
+      "typeid": "128",
+      "name": "Makeup Accessories",
+      "describe": "Look as good as you feel"
+  }
+]

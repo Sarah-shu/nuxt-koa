@@ -1,0 +1,37 @@
+[
+  {
+      "typeid": "59",
+      "name": "Bed Linen",
+      "describe": "Embrace quality sleep"
+  },
+  {
+      "typeid": "60",
+      "name": "Quilts & Throws",
+      "describe": "Add instant warmth to any room"
+  },
+  {
+      "typeid": "86",
+      "name": "Pillows",
+      "describe": "Sink into soul-soothing comfort"
+  },
+  {
+      "typeid": "61",
+      "name": "Towels",
+      "describe": "Luxurious bath linen"
+  },
+  {
+      "typeid": "92",
+      "name": "Bathroom Accessories",
+      "describe": "Refined enhancements to your bathroom "
+  },
+  {
+      "typeid": "63",
+      "name": "Furniture",
+      "describe": "Hours of cradling comfort"
+  },
+  {
+      "typeid": "62",
+      "name": "Home Decor",
+      "describe": "Style your home your way"
+  }
+]
