@@ -4,7 +4,7 @@
     <button>{{$t('vip.Myorder')}}</button>
 
     <div class="first">
-      hahahehehehe 霍霍
+      hahahehehehe 霍霍 嘎嘎
       <span class="second">hehhe</span>
     </div>
     <div class="black">this is other page</div>
