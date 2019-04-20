@@ -1,2 +1,2 @@
 # nuxt-koa
-a koa prictise project
+a koa practise project
